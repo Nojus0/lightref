@@ -1,6 +1,6 @@
 {
   "name": "lightref",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Pass by reference for primitive types.",
   "main": "dist/index.js",
   "keywords": [],
