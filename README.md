@@ -1,6 +1,7 @@
-### lightref
+# lightref
+[![npm version](https://badge.fury.io/js/lightref.svg)](https://badge.fury.io/js/lightref)
+
 #### Pass primitive types to javascript functions, by reference.
-#
 ### Passed by value
 ```
 let myVal = "hello"
