@@ -1,13 +1,16 @@
 {
   "name": "lightref",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Pass by reference for primitive types.",
   "main": "dist/index.js",
   "keywords": [],
   "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nojus0/lightref.git"
+  },
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^16.4.13",
     "typescript": "^4.3.5"
   }
 }
