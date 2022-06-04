@@ -3,7 +3,7 @@
 
 #### Pass primitive types to javascript functions, by reference.
 ### Passed by value
-```
+```ts
 let myVal = "hello"
 
 testFunction(myVal);
@@ -17,7 +17,7 @@ console.log(myVal);
 ```
 #
 ### Passed by reference
-```
+```ts
 import { Deref, Ref} from "lightref";
 
 const myRef = Ref<string>("hello");
